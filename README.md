@@ -31,3 +31,5 @@ PaintDotNet:
 🚀 Resultados
 
 <a href="https://github.com/Leoterum/lab-natty-or-not/blob/main/Output/Artigo-AI-CSS-FAKE-OR-NATTY.pdf" title="View PDF now"> 📕Clique aqui para ler o meu artigo</a>
+
+#LabDIONattyOrNot
